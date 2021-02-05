@@ -7,20 +7,14 @@
 
 **system.out.println("Hello World");**  I am a Backend Developer and Mobile Developer and also a Informatics Engineering Student 🚀 from Indonesia.
 
-<h4>Talking about Personal Stuffs:</h4>
+<h3>Talking about Personal Stuffs:</h3>
 
 - 🔭 I’m currently working on Java for Android, PHP Native or Laravel, Make an REST API for Front End Android and Wordpress Theme Developer
-
 - 🌱 I’m currently learning logic of programming, problem solve, and make a cup of coffe for my best program
-
 - 👯 I’m looking to collaborate on youtube or content writer of programing, instagram or blogging
-
 - 🤔 My interests are with back-end web developer and mobile programming
-
 - 💬 Ask me about Mobile Programming or Wordpress I'm really happy to help you
-
 - 📫 How to reach me: just send mailto:sidik.14@students.amikom.ac.id
-
 - ⚡ Fun fact: I am a best player football and badminton, my posisiton is midfielder
 
 Get In Touch
