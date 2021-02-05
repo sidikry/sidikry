@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on youtube or content writer of programing, instagram or blogging
 - 🤔 My interests are with back-end web developer and mobile programming
 - 💬 Ask me about Mobile Programming or Wordpress I'm really happy to help you
-- 📫 How to reach me: just send mailto:sidik.14@students.amikom.ac.id
+- 📫 How to reach me: just send sidik.14@students.amikom.ac.id
 - ⚡ Fun fact: I am a best player football and badminton, my posisiton is midfielder
 
 Get In Touch
